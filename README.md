@@ -1,11 +1,8 @@
-基于pytorch源码搭建YOLOv1
-yolov1 pytorch 只有训练过程
-添加了中午注释 方便学习
-需要下载VOC2007数据集 可以从百度网盘下载
-目录结构见图片
+# Project7 基于pytorch源码搭建YOLOv1
+
 
 ## 注意
-- 训练数据百度云盘链接：链接： 
+- 训练数据百度云盘链接：链接：https://pan.baidu.com/s/1IJCiXwh28-4G-vWhxKYuiw 
 提取码：mb01 
 
 
